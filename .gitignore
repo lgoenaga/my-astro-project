@@ -1,1 +1,15 @@
-*node_modules/*
+# Ignore node_modules
+/node_modules
+
+# Ignore build
+/build
+
+# Ignore coverage
+/coverage
+
+# Ignore .env
+/.env
+
+# Ignore .env.local
+/.env.local
+
